@@ -11,5 +11,7 @@ Get Started
 
 5.Open a new tab as Guess
 
-6.In the Guess tab copy this url
+6.In the Guess tab copy the first tab url
+
+7.And you can enjoy the chat
 
